@@ -1,0 +1,5 @@
+export const FETCH_NEWS = 'news/successFetchData'
+export const FETCH_NEWS_BY_ID = 'news/populateNews'
+export const SET_POPULAR_NEWS = 'news/setPopularNews'
+export const SET_LOADING_TRUE = 'loading/setLoadingTrue'
+export const SET_LOADING_FALSE = 'loading/setLoadingFalse'

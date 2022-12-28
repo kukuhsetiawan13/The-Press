@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a38ab07.css",
+    "main.js": "/static/js/main.ca2b267e.js",
+    "static/media/25bd0df3-7b58-48d0-a553-9aa0f654169c.webp": "/static/media/25bd0df3-7b58-48d0-a553-9aa0f654169c.993b7fa26a9605765769.webp",
+    "static/media/SamaritansTalktous.jpg": "/static/media/SamaritansTalktous.346f20a63b1a10a864bf.jpg",
+    "index.html": "/index.html",
+    "main.3a38ab07.css.map": "/static/css/main.3a38ab07.css.map",
+    "main.ca2b267e.js.map": "/static/js/main.ca2b267e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a38ab07.css",
+    "static/js/main.ca2b267e.js"
+  ]
+}

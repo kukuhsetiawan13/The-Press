@@ -1,0 +1,10 @@
+export const FETCH_NEWS = 'news/successFetchData'
+export const UDPATE_NEWS = 'news/updatedNews'
+export const POPULATE_NEWS = 'news/populateNews'
+export const FETCH_CATEGORIES = 'categories/successFetchData'
+export const UDPATE_CATEGORIES = 'categories/updatedCategories'
+export const POPULATE_CATEGORY = 'categories/populateCategory'
+export const FETCH_TAGS = 'tags/successFetchData'
+
+export const LOADING_FALSE = 'loading/false'
+export const LOADING_TRUE = 'loading/true'
